@@ -4,7 +4,7 @@ Bu proje, öğrencilerin alışkanlıklarının sınav başarıları üzerindeki
 
 ---
 
-## 👥 Proje Ekibi
+##  Proje Ekibi
 * **Süleyman Rubar Oral**
 * **Ali Han Dursun**
 * **Çağan Arın Gürsu** 
@@ -12,14 +12,14 @@ Bu proje, öğrencilerin alışkanlıklarının sınav başarıları üzerindeki
 
 ---
 
-## 📊 Veri Seti Özeti
+##  Veri Seti Özeti
 * **Gözlem Sayısı:** 1000 adet 
 * **Değişken Sayısı:** 15 (9 sayısal, 6 kategorik) 
 * **Kritik Bulgular:** Günlük çalışma saati ile sınav puanı arasında **0.83** değerinde çok güçlü bir pozitif korelasyon tespit edilmiştir.
 
 ---
 
-## 🛠️ Metodoloji ve Model Performansı
+##  Metodoloji ve Model Performansı
 Analiz sürecinde **OLS (En Küçük Kareler)** yöntemi kullanılmış; 
 Tam Model, Stepwise Selection ve Best Subset Analysis yöntemleri karşılaştırılmıştır.
 
@@ -31,7 +31,7 @@ Tam Model, Stepwise Selection ve Best Subset Analysis yöntemleri karşılaştı
 
 ---
 
-## 🔍 İstatistiksel Tanılar ve Varsayım Kontrolleri
+##  İstatistiksel Tanılar ve Varsayım Kontrolleri
 Projenin en güçlü yanı, model varsayımlarının titizlikle test edilmiş olmasıdır:
 
 1. **Aykırı Değer Analizi:** Cook's Distance yöntemiyle 41 adet etkin gözlem tespit edilmiştir.
@@ -41,6 +41,6 @@ Projenin en güçlü yanı, model varsayımlarının titizlikle test edilmiş ol
 
 ---
 
-## 📚 Kaynakça
+##  Kaynakça
 * Montgomery, D. C., Peck, E. A., & Vining, G. G. (2013). Doğrusal regresyon analizine giriş.
 * Gamgam, H., & Altunkaynak, B. (2015). Regresyon Analizi.
